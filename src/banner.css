@@ -1,0 +1,10 @@
+.top_banner{
+background-color: #f0f015;
+color:black;
+width:auto;
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+transition: all 0.1s ease-out;
+}
